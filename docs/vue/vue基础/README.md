@@ -1,11 +1,10 @@
 ---
-pageClass: custom-page-class
-title: 简洁至上
+title: vue基础
 ---
 
-## 测试
-## 测试标题
-### 测试标题
+# vue基础
+# vue基础
+### vue基础
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
