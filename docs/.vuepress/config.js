@@ -36,7 +36,8 @@ module.exports = {
 					children:[
 						'/vue/',
 						'vue基础/',
-						'vue常用/'
+						'vue常用/',
+						'vue动态title/',
 
 					]
 				}
@@ -53,6 +54,8 @@ module.exports = {
 		}
 	}
 }
+
+
 
 // sidebar:[
 // 	{
